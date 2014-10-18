@@ -4,14 +4,14 @@ moot.language = {
   $code: 'pl',
 
   /* New stuff */
-  address_now: 'Your address is now: ',
+  address_now: 'Twój obecny adres mailowy: ',
   open_pw: 'Please hit the button below to open a password change dialog',
-  non_anon: 'You need to be logged in to perform this action',
+  non_anon: 'Musisz być zalogowany żeby wykonać tą akcję',
 
   plan: 'Plan',
   trial: 'Start free trial',
 
-  is_private: "This community is private",
+  is_private: "Ta spoeczność jest zamknięta",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
   req_sent: "Access request sent",
@@ -20,14 +20,14 @@ moot.language = {
   rem_post: "Remove this post?",
   is_spam: "This post is spam?",
 
-  channels: 'Channels',
-  ch_name: 'Channel name',
+  channels: 'Kanały',
+  ch_name: 'Nazwa kanału',
   ban:  'Ban user',
-  banned:  'Banned',
-  ban_acc: 'Banned account',
-  ban_msg: 'You are temporarily banned from posting on this forum.',
+  banned:  'Zablokowany',
+  ban_acc: 'Konto zablokowane',
+  ban_msg: 'Zostałeś tymczasowo zablokowany na tym forum.',
   days:  'Days',
-  forever: 'Forever',
+  forever: 'Na zawsze',
   slogan:  'Free forums and commenting by Muut',
 
   add: '+ Add',
@@ -40,7 +40,7 @@ moot.language = {
   developer: "Developer",
 
 
-  img_needed: "Please upload an image file",
+  img_needed: "Zamieść obrazek",
 
 
   max: 'Maksymalny rozmiar zdjęcia to 4MB',
